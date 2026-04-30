@@ -1,16 +1,40 @@
-# React + Vite
+🏗️ REFILA (April 2026)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Gas Refill is a web and mobile platform designed to solve the logistical challenges of cooking gas procurement. Instead of carrying heavy cylinders to stations and waiting in long queues, users can manage the entire process from their devices.
 
-Currently, two official plugins are available:
+📖 Project Overview
+Inspired by the common struggle of gas running out at inconvenient times, this project focuses on:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Convenience: Order refills without leaving home.
 
-## React Compiler
+Reliability: Transparent pricing and safe handling of equipment.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Safety: Professional logistics to manage the transport of heavy cylinders.
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+Frontend: React / Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Backend: Firebase
+
+Project Management: PRD and Figma Designs / Lovable
+
+🚀 Getting Started
+Installation
+Clone the repository:
+
+Bash
+git clone https://github.com/your-username/the-gas-refill.git
+Install dependencies:
+
+Bash
+pnpm install
+Start the development server:
+
+Bash
+pnpm dev
+🤝 Contributing
+Fork the repo.
+
+Create a feature branch (git checkout -b feature/NewFeature).
+
+Commit your changes and open a Pull Request.

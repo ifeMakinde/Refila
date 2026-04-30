@@ -1,14 +1,11 @@
-// import { useState } from "react";
-
 import "./App.css";
-
+import Homepage from "./pages/homepage";
 function App() {
   return (
     <>
-      <section className="text-4xl text-center">
-        {" "}
-        <h1 className="text-red-500"> REFILA</h1>
-      </section>
+      <main className="text-4xl text-center">
+        <Homepage />
+      </main>
     </>
   );
 }

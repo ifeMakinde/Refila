@@ -7,7 +7,7 @@ const prices = [
 export default function Pricing() {
   return (
     <section className="px-8 py-16 text-center mx-auto w-full  lg:max-w-[50%] ">
-      <p className="text-orange-500 text-[10px] lg:text-xs">LIVE PRICING</p>
+      <p className="text-orange-500 text-[10px] p-2">LIVE PRICING</p>
 
       <h2 className="text-3xl font-semibold mt-2">
         Today's prices in <span className="text-orange-500">Lagos</span>

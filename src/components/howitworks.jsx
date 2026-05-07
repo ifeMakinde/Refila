@@ -25,7 +25,7 @@ export default function HowItWorks() {
       id="howitworks"
     >
       <div className="mx-auto w-full lg:max-w-[60%] space-y-1">
-        <p className="text-gray-300 text-xs mb-3"> HOW IT WORKS</p>
+        <p className="text-gray-300 text-[10px]  mb-3"> HOW IT WORKS</p>
 
         <h2 className="text-3xl font-semibold ">Three steps. Zero hassle.</h2>
 

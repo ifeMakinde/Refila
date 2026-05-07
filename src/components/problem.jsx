@@ -2,7 +2,7 @@ export default function Problem() {
   return (
     <section className="">
       <div className="text-start space-y-5 px-8 py-16 mx-auto w-full lg:max-w-[50%]">
-        <p className="text-orange-500 text-xs lg:text-sm">THE PROBLEM</p>
+        <p className="text-orange-500 text-xs">THE PROBLEM</p>
 
         <h2 className="text-2xl lg:text-3xl font-semibold ">
           Linda gets home tired. Her gas is finished.

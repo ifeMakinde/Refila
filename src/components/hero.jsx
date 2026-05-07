@@ -29,7 +29,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="rounded-2xl overflow-hidden w-full lg:w-[50%]">
+        <div className="rounded-2xl overflow-hidden w-full lg:w-[99%]">
           <img
             src="/hero-image.jpg"
             alt="delivery"

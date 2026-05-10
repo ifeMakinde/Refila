@@ -1,0 +1,6 @@
+@GasRefillAPI_HostAddress = http://localhost:5148
+
+GET {{GasRefillAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

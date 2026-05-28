@@ -16,7 +16,7 @@ const analytics = [
 export default function Analytics() {
   return (
     <section className="bg-orange-50 px-8 py-16 ">
-      <div className=" px-8 py-16 grid md:grid-cols-3 gap-8 lg:gap-10 mx-auto w-full lg:max-w-[50%]">
+      <div className=" px-8 py-16 grid grid-cols-3 gap-8 lg:gap-10 mx-auto w-full lg:max-w-[50%]">
         {analytics.map((item, i) => (
           <div key={i} className="space-y-1">
             <p className="text-3xl lg:text-5xl text-orange-500 font-bold">
